@@ -1,1 +1,1 @@
-sudo docker network create pismo-network
+docker network create pismo-network
